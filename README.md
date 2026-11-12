@@ -53,6 +53,12 @@ ibus restart
 
 Then add it: GNOME Settings → Keyboard → Input Sources → + → Vietnamese → Nôm (other desktops: `ibus-setup` → Input Method → Add). Switch with Super+Space.
 
+### Fonts
+
+Soạn Nôm installs the NomNaTong fonts (Nom Na Tong, NomNaTong Fill, NomNaTong Fill2) along with the input method, so apps can draw the characters you type, including rare ones. A font you installed yourself is kept.
+
+On Windows, private-use (PUA) characters draw only where the app's font is set to **Nom Na Tong** (in Word, Notepad's font settings, and so on): Windows apps, browsers included, never look for another font for them. macOS and Linux draw them in any app.
+
 ## Problems and ideas
 
 Write to support@nomnaviet.com, or open an issue here.
