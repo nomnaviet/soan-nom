@@ -11,7 +11,7 @@ This repository holds the downloads only. The same input method is also in the [
 Both type Nôm from Telex. Pick by whether you already use RIME:
 
 - **Soạn Nôm** (this repo) is a complete input method: one installer per system, nothing else to set up, the same keys and next-word suggestions as the Nôm Na Việt app and the Chrome extension. For most people.
-- **[rime-nom-viet](https://github.com/nomnaviet/rime-nom-viet)** is a schema for the [RIME](https://rime.im) input method engine (Squirrel on macOS, Weasel on Windows, ibus-rime or fcitx5-rime on Linux, Trime and Hamster on phones). Use it if you already type with RIME, want to change its settings or dictionary yourself, or want it next to other RIME schemas. It is MIT-licensed and open source.
+- **[rime-nom-viet](https://github.com/nomnaviet/rime-nom-viet)** is a schema for the [RIME](https://rime.im) input method engine (Squirrel on macOS, Weasel on Windows, ibus-rime or fcitx5-rime on Linux, Trime on Android). Use it if you already type with RIME, want to change its settings or dictionary yourself, or want it next to other RIME schemas. It is MIT-licensed and open source.
 
 ## Download
 
