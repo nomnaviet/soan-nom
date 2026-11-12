@@ -6,6 +6,13 @@ Type a word in Telex (`vieejt`), and pick its Nôm character from the list: Spac
 
 This repository holds the downloads only. The same input method is also in the [Nôm Na Việt app](https://nomnaviet.com) for iPhone and Android, and in the [Soạn Nôm IME](https://chromewebstore.google.com/detail/kmlmnpafcnomgnbpobldglokdhepembe) Chrome extension.
 
+## Soạn Nôm or rime-nom-viet?
+
+Both type Nôm from Telex. Pick by whether you already use RIME:
+
+- **Soạn Nôm** (this repo) is a complete input method: one installer per system, nothing else to set up, the same keys and next-word suggestions as the Nôm Na Việt app and the Chrome extension. For most people.
+- **[rime-nom-viet](https://github.com/nomnaviet/rime-nom-viet)** is a schema for the [RIME](https://rime.im) input method engine (Squirrel on macOS, Weasel on Windows, ibus-rime or fcitx5-rime on Linux, Trime and Hamster on phones). Use it if you already type with RIME, want to change its settings or dictionary yourself, or want it next to other RIME schemas. It is MIT-licensed and open source.
+
 ## Download
 
 From the [latest release](https://github.com/nomnaviet/soan-nom/releases/latest):
