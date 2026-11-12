@@ -30,11 +30,11 @@ From the [latest release](https://github.com/nomnaviet/soan-nom/releases/latest)
 
 ### macOS
 
-1. Open the `.dmg` and drag **Nôm** onto **Input Methods** (macOS asks for your password).
-2. Open the Input Methods folder and double-click **Nôm**. It joins the input menu at once.
-3. Switch to it from the input menu or with Control-Space.
+1. Open the `.dmg` and double-click **Nôm**. If macOS asks whether to open an app downloaded from the internet, choose Open.
+2. Choose **Install**. Nôm goes into your own Input Methods folder (no password needed) and joins the input menu.
+3. Switch to it from the input menu or with Control-Space. You can eject the disk image.
 
-If Nôm does not show up, add it in System Settings → Keyboard → Text Input → Edit → + → Vietnamese, or log out and back in.
+If Nôm isn't in the input menu yet, add it in System Settings → Keyboard → Text Input → Edit → + → Vietnamese → Nôm. Installing a newer version the same way replaces the old one.
 
 ### Windows
 
